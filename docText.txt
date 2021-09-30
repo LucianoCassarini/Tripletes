@@ -1,0 +1,15 @@
+luciano,1pm,home
+luciano,1pm,google
+luciano,1pm,facebook
+pablo,1pm,home
+luciano,1pm,instagram
+luciano,1pm,hola
+pablo,1pm,google
+pablo,1pm,facebook
+pablo,1pm,twitter
+pepe,1pm,home
+pepe,1pm,google
+pepe,1pm,facebook
+juan,1pm,home
+juan,1pm,google
+juan,1pm,facebook
